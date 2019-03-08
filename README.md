@@ -8,7 +8,7 @@ The notebooks can be freely used, shared and modified. See the copyright and lic
 
 The module's reading assignment are referenced by the book names in **BOLD**. This course uses the following book(s):
 
-1. **PEN** - (REQUIRED) - CompTIA PenTest+ Certification All-in-One Exam Guide (Exam PT0- 001) (ISBN-13: 978-1260135947)
+1. **PEN** - (REQUIRED) - CompTIA PenTest+ Certification All-in-One Exam Guide (Exam PT0-001) (ISBN-13: 978-1260135947)
   
 ## Feedback and Corrections
 
